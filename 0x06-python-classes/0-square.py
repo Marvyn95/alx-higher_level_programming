@@ -2,6 +2,6 @@
 """defines a square"""
 
 
-class square:
+class Square:
     """a square is a four equal sided figure"""
     pass
