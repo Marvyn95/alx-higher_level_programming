@@ -12,7 +12,7 @@ class Square:
         size (int): size of new square
         """
         self.__size = size
-    
+
     @property
     def size(self):
         """set current size of square"""
