@@ -3,6 +3,7 @@
 
 
 class Square:
+    """this is a square"""
 
     def __init__(self, size):
         """is a square
