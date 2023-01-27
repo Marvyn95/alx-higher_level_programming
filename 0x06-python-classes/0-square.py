@@ -3,5 +3,5 @@
 
 
 class square:
-    """{}"""
+    """a square is a four equal sided figure"""
     pass
