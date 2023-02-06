@@ -4,7 +4,7 @@ has a subclass
 """
 
 
-class Mylist(list):
+class MyList(list):
     """child class of list"""
     def __init__(self):
         """initialises an object"""
